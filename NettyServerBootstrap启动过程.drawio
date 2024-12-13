@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2534" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3174" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="ServerBootstrap的启动主流程" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Monaco, monospace;fontSize=14;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="30" width="2845" height="750" as="geometry">
+          <mxGeometry x="-30" y="70" width="3082.8050000000003" height="1010" as="geometry">
             <mxRectangle x="70" y="40" width="60" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="Main Thead" style="swimlane;html=1;startSize=20;fontFamily=Monaco, monospace;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;fontSize=14;swimlaneLine=1;absoluteArcSize=0;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="20" width="1630" height="730" as="geometry" />
+          <mxGeometry y="20" width="1560" height="990" as="geometry" />
         </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-4" style="rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.137;exitY=1.1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;jumpStyle=arc;jumpSize=6;flowAnimation=0;shadow=0;anchorPointDirection=1;startFill=1;endFill=1;orthogonal=0;enumerate=0;comic=0;edgeStyle=orthogonalEdgeStyle;arcSize=41;curved=0;exitPerimeter=0;" parent="77e6c97f196da883-2" source="77e6c97f196da883-8" target="LekEVazieS8v96OrT8rm-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -21,9 +21,6 @@
         <mxCell id="LekEVazieS8v96OrT8rm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.137;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" parent="77e6c97f196da883-2" source="LekEVazieS8v96OrT8rm-3" target="LekEVazieS8v96OrT8rm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LekEVazieS8v96OrT8rm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.137;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" parent="77e6c97f196da883-2" source="LekEVazieS8v96OrT8rm-3" target="LekEVazieS8v96OrT8rm-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-3" value="AbstractBootstrap#doBind()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Monaco, monospace;fontSize=14;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="80" y="100" width="233.12" height="30" as="geometry" />
         </mxCell>
@@ -31,6 +28,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;" parent="77e6c97f196da883-2" source="LekEVazieS8v96OrT8rm-6" target="LekEVazieS8v96OrT8rm-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;" edge="1" parent="77e6c97f196da883-2" source="LekEVazieS8v96OrT8rm-6" target="jJEf5UKBSsvZmzkTUECD-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-6" value="AbstractBootstrap#initAndRegister()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Monaco, monospace;fontSize=14;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
@@ -50,23 +50,23 @@
         <mxCell id="LekEVazieS8v96OrT8rm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-2" source="LekEVazieS8v96OrT8rm-14" target="LekEVazieS8v96OrT8rm-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LekEVazieS8v96OrT8rm-14" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;config().group().register(channel)&lt;/font&gt;,从BossGroup中选择一个NioEventLoop执行注册&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=left;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="540" y="230" width="310" height="60" as="geometry" />
+        <mxCell id="LekEVazieS8v96OrT8rm-14" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;config().group().register(channel)&lt;/font&gt;,从BossGroup中选择一个NioEventLoop执行注册，并返回一个ChannelFuture，说明这里是异步执行的&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=left;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
+          <mxGeometry x="540" y="230" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LekEVazieS8v96OrT8rm-16" value="AbstractBootstrap#doBind0()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Monaco, monospace;fontSize=14;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="170" y="310" width="300" height="40" as="geometry" />
+        <mxCell id="LekEVazieS8v96OrT8rm-16" value="AbstractBootstrap#doBind0()，" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Monaco, monospace;fontSize=14;align=left;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
+          <mxGeometry x="540" y="540" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;" parent="77e6c97f196da883-2" source="LekEVazieS8v96OrT8rm-18" target="LekEVazieS8v96OrT8rm-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-18" value="&lt;font color=&quot;#ff3333&quot;&gt;SingleThreadEventLoop#register(DefaultChannelPromise)&lt;/font&gt;, Channel和选中的NioEventLoop被封装成ChannelPromise, 最后被传递给了Channle关联的unsafe" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=left;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="890" y="50" width="490" height="62.5" as="geometry" />
+          <mxGeometry x="890" y="50" width="460" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-20" value="&lt;font color=&quot;#ff3333&quot;&gt;AbstractUnsafe#register(EventLoop, ChannelPromise)&lt;/font&gt;，把Channel和EventLoop进行绑定，然后往EventLoop提交一个异步执行的Task,这的Task就是执行&lt;font color=&quot;#ff3333&quot;&gt;register0(ChannelPromise)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=left;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="890" y="130" width="490" height="70" as="geometry" />
+          <mxGeometry x="910.7" y="270" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LekEVazieS8v96OrT8rm-22" value="这个执行操作会调用NioEventLoop的父类&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;SingleThreadEventLoop#execute(task)&lt;/span&gt;方法，" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=left;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="838.59" y="305" width="592.81" height="50" as="geometry" />
+        <mxCell id="LekEVazieS8v96OrT8rm-22" value="执行操作会调用NioEventLoop的父类&lt;span style=&quot;font-family: Monaco, monospace; font-size: 10.5pt;&quot;&gt;SingleThreadEventExecutor&lt;/span&gt;#execute(task)方法中，最总会把task添加到队列中然后启动一个Therad" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=left;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" parent="77e6c97f196da883-2" vertex="1">
+          <mxGeometry x="870" y="440" width="421.41" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LekEVazieS8v96OrT8rm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;" parent="77e6c97f196da883-2" source="LekEVazieS8v96OrT8rm-20" target="LekEVazieS8v96OrT8rm-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,11 +76,61 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;register0()方法会把channel注册到NioEventLoop内部的Selectot,但是这个时候注册的操作是 0，即不做任何事件操作，因为还没有绑定&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="1280" y="180" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-2" source="jJEf5UKBSsvZmzkTUECD-7" target="jJEf5UKBSsvZmzkTUECD-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-12" value="&lt;font style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="jJEf5UKBSsvZmzkTUECD-11">
+          <mxGeometry x="-0.3737" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="77e6c97f196da883-2" source="jJEf5UKBSsvZmzkTUECD-7" target="jJEf5UKBSsvZmzkTUECD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-15" value="&lt;font style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="jJEf5UKBSsvZmzkTUECD-14">
+          <mxGeometry x="-0.35" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-7" value="发生异常regFuture#cause() != null" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=center;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="235" y="270" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-10" value="结束" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="660" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-17" value="&lt;font style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;否&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="77e6c97f196da883-2" source="jJEf5UKBSsvZmzkTUECD-13" target="jJEf5UKBSsvZmzkTUECD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-13" value="&lt;div&gt;任务是否完成&lt;/div&gt;future#isDone" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=center;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="232.5" y="470" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-16" value="直接向regFuture添加一个监听" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="260" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.187;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="77e6c97f196da883-2" source="jJEf5UKBSsvZmzkTUECD-16" target="LekEVazieS8v96OrT8rm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.963;exitY=0.536;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="77e6c97f196da883-2" source="jJEf5UKBSsvZmzkTUECD-13" target="LekEVazieS8v96OrT8rm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-3" value="BossGroup#NioEventLoop" style="swimlane;html=1;startSize=20;fontFamily=Monaco, monospace;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;fontSize=14;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="1630" y="20" width="760" height="730" as="geometry" />
+          <mxGeometry x="1560" y="20" width="760" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-3" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;executor.execute(new Runnable() {&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;  ...&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Monaco, monospace&quot;&gt;  &lt;/font&gt;SingleThreadEventExecutor.&lt;span style=&quot;font-family: Monaco, monospace; font-size: 10.5pt; white-space: normal;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;font-family: Monaco, monospace; font-size: 10.5pt; white-space: normal;&quot;&gt;.run()&lt;/span&gt;&lt;span style=&quot;font-family: Monaco, monospace; font-size: 10.5pt; white-space: normal;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;  ...&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;}&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Monaco, monospace&quot;&gt;此时NioEventLoop就启动了，他会处理它内部的Task队列&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Monaco, monospace&quot;&gt;中任务和selector上的事件&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Monaco, monospace;align=left;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="90" y="455" width="430" height="220" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="workGroup#NioEventLoop" style="swimlane;html=1;startSize=20;fontFamily=Monaco, monospace;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMonaco%252C%2Bmonospace;fontSize=14;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="2390" y="20" width="455" height="730" as="geometry" />
+          <mxGeometry x="2320" y="20" width="455" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="jJEf5UKBSsvZmzkTUECD-4" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;startThread&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="LekEVazieS8v96OrT8rm-22" target="jJEf5UKBSsvZmzkTUECD-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
