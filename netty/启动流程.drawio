@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="第 1 页" id="JIs7OemtiU3-u2dIrwDt">
+    <mxGraphModel dx="2074" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-1" target="71l2kjqmPDXrIYp7tOSZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-1" target="71l2kjqmPDXrIYp7tOSZ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-1" target="71l2kjqmPDXrIYp7tOSZ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;initAndRegister&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-2" target="71l2kjqmPDXrIYp7tOSZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-2" target="71l2kjqmPDXrIYp7tOSZ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-2" target="71l2kjqmPDXrIYp7tOSZ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;bind()&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-4" target="71l2kjqmPDXrIYp7tOSZ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-4" target="71l2kjqmPDXrIYp7tOSZ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-4" target="71l2kjqmPDXrIYp7tOSZ-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;channelActive&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;AutoRead&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-6" target="71l2kjqmPDXrIYp7tOSZ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-6" target="71l2kjqmPDXrIYp7tOSZ-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Monaco%2C+monospace&quot; face=&quot;Monaco, monospace&quot;&gt;head#beginRead&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-8" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;ServerScoketChannel被关联到指定的NioEventLoop,并注册到Selector上，但是register的事件操作是0，相当于只是和selector进行了绑定&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="470" y="90" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-10" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;如果上面异步操作成功执行，执行绑定Address操作，bind操作是个出站操作，执行会从 tail -&amp;gt; head,但是最后实际执行了headContext中的bind()方法，然后执行unsafe.bind(),bind成功之后调用fireChannelActive&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="470" y="215" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-12" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;channelActive是inBound事件，会从head -&amp;gt; tail,执行完成之后判断autoRead,ServerSocketChannl是true，会触发pipeline.read()&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="465" y="370" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-16" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;pipeline.read()，由会从tail -&amp;gt; head,执行read，最后实际执行的head#beiginRead,这个时候修改了channel在selector上的注册状态为OP_ACCEPT&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="465" y="497.5" width="345" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-18" target="71l2kjqmPDXrIYp7tOSZ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-18" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;注册（0）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="61" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-20" target="71l2kjqmPDXrIYp7tOSZ-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-20" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;监听端口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="61" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="71l2kjqmPDXrIYp7tOSZ-22" target="71l2kjqmPDXrIYp7tOSZ-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-22" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;激活&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="61" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71l2kjqmPDXrIYp7tOSZ-24" value="&lt;font face=&quot;Monaco, monospace&quot;&gt;修改监听操作(OP_ACCEPT)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="61" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
